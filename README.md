@@ -2,6 +2,19 @@
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
+## Project Overview
+
+One language that has been gaining popularity is Rust. I learned about Rust from NoBoilerPlate's "[How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs&t=294s)" video on YouTube. Rust is a systems programming language that emphasizes safety, performance, and concurrency. If you are interested in learning Rust, here are some great resources that Tris outlines that I will be using, in a slightly different order. 
+
+My basic plan of attack is to use [Rustlings](https://github.com/rust-lang/rustlings) code kata and learn by fixing tiny failing tests. If I get stuck on a rustling, I will reference [Rust By Example](https://doc.rust-lang.org/rust-by-example/) in an attempt to keep pace and gain momentum. Using the compiler messages, I am attempting to self-identify the issue and implement the solution. This, in my opinion, is simulating a traditional problem solving techinque I would use in a real-life scenario. I must be able to identify why it's not working. If all else fails, the `hint` functionality of rustlings will point me to a chapter in [The Book](https://doc.rust-lang.org/stable/book/),
+
+Rustlings is available on Github, and you can install it on a Windows Subsystem for Linux (WSL) to get started.
+
+In addition to these resources, I am going to complete two "sidequests", as suggested by Tris. 
+- Sidequest #1: Listen to [Ultralearning](https://www.audible.com/pd/Ultralearning-Audiobook/0062945149?action_code=ASSGB149080119000H&share_location=pdp) Audiobook is a great resource that explains the principles of ultralearning, and you can use these principles to learn Rust quickly. 
+- Sidequest #2: Reading "The Book" a second time, this time using [Brown University's Interactive Book Experiment](https://rust-book.cs.brown.edu/experiment-intro.html). This will help you to absorb the information better.
+
+## Rustlings Compiler Intro
 
 - Is this your first time? Don't worry, Rustlings was made for beginners! We are
   going to teach you a lot of things about Rust, but before we can get  
@@ -35,4 +48,5 @@ Greetings and welcome to `rustlings`. This project contains small exercises to g
 
 ## Contributors ✨
 
-Thanks goes to the wonderful people listed in [AUTHORS.md](./AUTHORS.md) 🎉
+Thanks goes to the wonderful people listed in [AUTHORS.md](./AUTHORS.md) for making all of this possible and to NoBoilerPlate for the initial inspiration. 🎉
+
