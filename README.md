@@ -50,3 +50,30 @@ In addition to these resources, I am going to complete two "sidequests", as sugg
 
 Thanks goes to the wonderful people listed in [AUTHORS.md](./AUTHORS.md) for making all of this possible and to NoBoilerPlate for the initial inspiration. 🎉
 
+## Getting Started
+
+### Install Rust
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source "$HOME/.cargo/env"
+exec bash
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
+```
+
+### Once Installed:
+
+```bash
+rustlings 
+rustlings watch
+```
+
+### Shortcuts to Streamline
+
+<kbd>control</kbd> <kbd>P</kbd> exercise.rs
+
+
+Quick add, commit, push
+```bash
+git add . && git commit -m "fix: exercise name" && git push
+```
