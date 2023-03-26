@@ -1,0 +1,1 @@
+/mnt/h/Toolkit/Rust/rustlings/target/release/rustlings: /mnt/h/Toolkit/Rust/rustlings/src/exercise.rs /mnt/h/Toolkit/Rust/rustlings/src/main.rs /mnt/h/Toolkit/Rust/rustlings/src/project.rs /mnt/h/Toolkit/Rust/rustlings/src/run.rs /mnt/h/Toolkit/Rust/rustlings/src/ui.rs /mnt/h/Toolkit/Rust/rustlings/src/verify.rs
