@@ -75,5 +75,5 @@ rustlings watch
 
 Quick add, commit, push
 ```bash
-git add . && git commit -m "fix: exercise name" && git push
+git add . && git commit -m "fix: move semantics" && git push
 ```
